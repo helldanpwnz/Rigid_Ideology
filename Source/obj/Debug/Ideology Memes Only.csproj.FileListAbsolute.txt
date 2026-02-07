@@ -1,0 +1,7 @@
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Ideology Memes Only\Source\obj\Debug\Ideology Memes Only.csproj.AssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Ideology Memes Only\Source\obj\Debug\Ideology Memes Only.GeneratedMSBuildEditorConfig.editorconfig
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Ideology Memes Only\Source\obj\Debug\Ideology Memes Only.AssemblyInfoInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Ideology Memes Only\Source\obj\Debug\Ideology Memes Only.AssemblyInfo.cs
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Ideology Memes Only\Source\obj\Debug\Ideology Memes Only.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Ideology Memes Only\Assemblies\Ideology Memes Only.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Ideology Memes Only\Source\obj\Debug\Ideology Memes Only.dll
